@@ -1,0 +1,1 @@
+In this case, you must download the program and then double click it for it to work.
